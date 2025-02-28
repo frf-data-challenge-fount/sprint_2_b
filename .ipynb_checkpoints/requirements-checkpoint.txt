@@ -1,6 +1,0 @@
-geopandas
-rioxarray
-fastfuels_core
-geojson
-requests
-matplotlib

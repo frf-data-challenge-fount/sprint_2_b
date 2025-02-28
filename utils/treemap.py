@@ -4,7 +4,7 @@ from the TreeMapConnection raster using an ROI object.
 """
 
 # Internal imports
-from raster import RasterConnection
+from utils.raster import RasterConnection
 
 # External imports
 import numpy as np
